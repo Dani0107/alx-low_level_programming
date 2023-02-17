@@ -3,7 +3,7 @@
 /**
  * main - print the code using puts
  *
- * Return: o if succee
+ * Return: Always 0 (Success)
  */
 
 int main(void)
